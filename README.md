@@ -1,9 +1,9 @@
 # LAP 4 CODE CHALLENGE
 
 ## Usage
-- Visit our url here - https://shorter-urls-4all.herokuapp.com
+- Visit our url here - https://short-url-lap4.herokuapp.com/
 
-- To see all urls in db go to -  https://shorter-urls-4all.herokuapp.com/urls
+- To see all urls in db go to -  https://short-url-lap4.herokuapp.com/urls
 
 ## Installation
 - clone and download this repo
