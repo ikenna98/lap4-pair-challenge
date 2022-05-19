@@ -8,12 +8,11 @@
 ## Installation
 - clone and download this repo
 - in the terminal run
-1. ```git submodule update --init```
-2. ``` pipenv install ```
-3. ```flask run```
+1. ``` pipenv install ```
+2. ```flask run```
 
 ## Bugs
-[ ] deployment issues 
+[x] deployment issues 
 
 ## TO DO
 - [x] front end
@@ -32,4 +31,3 @@
 
 
 
-### Note that the client-react folder has not been used, click on the server submodule for the full project
